@@ -1,1 +1,1 @@
-# Desaf-os-Python
+# Desafíos de programación en Python.
